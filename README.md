@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# EMPLOYEE MANAGEMENT SYSTEM
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+THIS IS MY FRONTEND FOR MY PROJECT
 
 ## Available Scripts
 
